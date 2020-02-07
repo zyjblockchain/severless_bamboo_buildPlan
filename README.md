@@ -1,0 +1,2 @@
+# severless_bamboo_buildPlan
+触发bamboo自动build plan
