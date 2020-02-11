@@ -1,0 +1,29 @@
+{
+  "name": "severless_bamboo_buildplan",
+  "version": "1.0.0",
+  "description": "触发bamboo自动build plan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zyjblockchain/severless_bamboo_buildPlan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zyjblockchain/severless_bamboo_buildPlan/issues"
+  },
+  "homepage": "https://github.com/zyjblockchain/severless_bamboo_buildPlan#readme",
+  "devDependencies": {
+    "babel-eslint": "10.0.2",
+    "eslint": "^6.1.0",
+    "eslint-config-airbnb-base": "13.2.0",
+    "eslint-friendly-formatter": "4.0.1",
+    "eslint-plugin-import": "2.18.2"
+  },
+  "dependencies": {
+    "bamboo-api": "0.0.9"
+  }
+}
